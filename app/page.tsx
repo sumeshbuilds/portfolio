@@ -9,14 +9,14 @@ export default function HomePage() {
       eyebrow="sumesh pradhan — bhawanipatna, odisha"
       title={
         <>
-          biology.
+          Technology.
           <br />
           intelligence.
           <br />
           the web.
         </>
       }
-      subtitle="final-year cs student building at the seam of the three — an odia-language ai model, indie saas, and freelance web craft."
+      subtitle="final-year bsc botany student building at the seam of the three — an odia-language ai model, indie saas, and freelance web craft."
       footer={
         <div className="flex items-center gap-4 text-[11px] uppercase tracking-widest2 text-parchment/40">
           <span>est. bhawanipatna</span>
