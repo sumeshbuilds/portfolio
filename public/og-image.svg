@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0f0c"/>
+  <path d="M-60 460C120 390 225 440 320 330C425 208 505 250 610 146C690 68 780 90 910 165C1030 236 1080 190 1260 210" fill="none" stroke="#8fae63" stroke-width="3" stroke-linecap="round" opacity=".78"/>
+  <path d="M250 500C380 450 455 530 590 468C715 410 800 470 940 415C1020 384 1076 324 1210 330" fill="none" stroke="#c9d9a8" stroke-width="2" stroke-linecap="round" opacity=".38"/>
+  <path d="M610 146C650 250 760 258 835 330C905 398 970 385 1060 468" fill="none" stroke="#c9d9a8" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+  <circle cx="610" cy="146" r="8" fill="#b96b3c"/>
+  <circle cx="835" cy="330" r="7" fill="#b96b3c"/>
+  <text x="96" y="278" fill="#f2ede1" font-family="Georgia, serif" font-size="92" font-style="italic">Sumesh Pradhan</text>
+  <text x="102" y="340" fill="#8fae63" font-family="monospace" font-size="24" letter-spacing="8">BIOLOGY / AI / WEB</text>
+</svg>

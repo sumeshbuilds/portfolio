@@ -1,0 +1,6 @@
+Drop your photo here as `portrait.jpg` (square, at least 300x300px works best —
+it's shown at 84px in a circular frame with a duotone moss/ink filter applied
+automatically, so a plain photo will still match the palette).
+
+Until the file exists, the site falls back to a small line-art silhouette
+instead of a broken image — see components/Portrait.tsx.
